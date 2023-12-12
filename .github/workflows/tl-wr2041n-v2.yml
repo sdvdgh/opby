@@ -20,8 +20,8 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/tiantianxiangshang2022/openwrt-20220722.git
-  REPO_BRANCH: 19.07.8
+  REPO_URL: https://github.com/sdvdgh/opym
+  REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/tl-wr2041n-v2.config
   DIY_P1_SH: diy-part1.sh
